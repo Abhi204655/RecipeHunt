@@ -5,12 +5,13 @@
 /.pnp
 .pnp.js
 
+/src/ApiKey.js
 # testing
 /coverage
 
 # production
 /build
-
+.netlify/
 # misc
 .DS_Store
 .env.local
